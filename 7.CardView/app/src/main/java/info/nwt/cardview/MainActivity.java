@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-
+///this is from JUeJUeTHanTun
     private RecyclerView recyclerView;
     private AlbumsAdapter adapter;
     private List<Album> albumList;
